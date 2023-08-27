@@ -2,9 +2,9 @@
 
 ## Education
 				       		
-- Master of Science, Artificial Intelligence	| ILLINOIS INSTITUE OF TECHNOLOGY  (_May 2024_)
+- Master of Science, Artificial Intelligence	
   
-  Relevant Courses: Applied Statistics, Big Data, Machine Learning, Computer Vision, NLP, Deep learning
+  Relevant Courses: Applied Statistics, Big Data, Machine Learning, Computer Vision, NLP, Deep learning | ILLINOIS INSTITUE OF TECHNOLOGY  (_May 2024_)
 
 - Bachelors of Engineering, Electronics and Communication | AMRITA VISHWA VIDYAPEETHAM, INDIA (_June 2021_)
 
