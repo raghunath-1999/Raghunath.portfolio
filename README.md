@@ -7,7 +7,6 @@
   Relevant Courses: Applied Statistics, Big Data, Machine Learning, Computer Vision, NLP, Deep learning | ILLINOIS INSTITUE OF TECHNOLOGY  (_May 2024_)
 
 - Bachelors of Engineering, Electronics and Communication
-  
   Relevant Courses: Signal Processing, Communication and Electromagnetism, Data Communication and Networks| AMRITA VISHWA VIDYAPEETHAM, INDIA (_June 2021_)
 
 ## Work Experience
