@@ -6,10 +6,13 @@
   
   Relevant Courses: Applied Statistics, Big Data, Machine Learning, Computer Vision, NLP, Deep learning | ILLINOIS INSTITUE OF TECHNOLOGY  (_May 2024_)
 
-- Bachelors of Engineering, Electronics and Communication | AMRITA VISHWA VIDYAPEETHAM, INDIA (_June 2021_)
+- Bachelors of Engineering, Electronics and Communication
+  
+  Relevant Courses: Signal Processing, Communication and Electromagnetism, Data Communication and Networks| AMRITA VISHWA VIDYAPEETHAM, INDIA (_June 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+
+**DATA SCIENCE R&D ENGINEER INTERN @ CCC INTELLIGENT SOLUTINS,CHICAGO (May 2023 - Aug 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
