@@ -17,6 +17,7 @@
 - Enhanced instruction, collaborating with faculty; designed assignments; led interactive discussions; guided students; conducted detailed grading; communicated effectively for clarity and improvement.
 
 **DATA SCIENCE R&D ENGINEER INTERN @ CCC INTELLIGENT SOLUTINS,CHICAGO (May 2023 - Aug 2023_)**
+
 - Designed, developed and deployed production-level R&D models, with a focus on end-to-end AI pipelines.
 - Demonstrated expertise in evaluating model performance using relevant metrics to enhance efficiency and business alignment.(Played a key role in the development of CCC's prominent product, Smart Estimate.)
 - Transformed monolithic models to a highly optimized micro-service architecture using Docker,and Airflow, resulting in increased efficiency(60 percent prediction time) and 3X scalability.(as container image)
