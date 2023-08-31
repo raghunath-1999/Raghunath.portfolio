@@ -28,6 +28,15 @@
 - Spearheaded successful knowledge transfer and transition of crucial applications within 5 weeks, delivering significant results. Categorized as a highly important project with a successful outcome.
 
 
+**DATA ANALYST INTERN @ ILLINOIS INSTITUTE OF TECHNOLOGY, CHICAGO (May 2022 - Jun 2022)**
+- Conducted thorough analysis of marketing team's raw data, reveling inefficiencies in Facebook ad campaigns. Identified areas for improvement leading to discontinuation of ineffective ads and contributing to a 14 % increase in campaign’s success.
+- Created transformed fields and conducted deeper statistical analysis, leading to a 16% cost reduction for the company. Substantiated strategic thinking by employing variety of metrics and techniques, delivering substantial cost savings.
+
+
+**INTERN RESEARCH ASSOCIATE @ INDIAN INSTITUTE OF TECHNOLOGY, MADRAS (May 2019 - Jun 2019)**
+- Designed IoT-based monitoring for electrical transformers using fluorescent optical fibers. Boosted efficiency by 20%, replacing outdated techniques for cryogenic system solutions. Adviced by Prof R Sarathi. 
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
