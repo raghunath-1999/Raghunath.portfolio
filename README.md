@@ -5,6 +5,7 @@
 - Curiosity in exploring and researching with experience in publishing a couple of research papers in international forums namely IEEE and Scopus
 - TA for master’s level Machine Learning course
 
+
 ## Education
 				       		
 - Master of Science, Artificial Intelligence	
