@@ -1,5 +1,9 @@
 ## Summary
-hi
+
+- Enthusiastic AI grad student with special interest in Computer vision, Applied Statistics
+- Bringing in a couple of internships experience as a Data Science R & D engineer and as a Data Analyst with good exposure and understanding of the AI lifecycle
+- Curiosity in exploring and researching with experience in publishing a couple of research papers in international forums namely IEEE and Scopus
+- TA for master’s level Machine Learning course
 
 ## Education
 				       		
