@@ -81,4 +81,7 @@ Face Detection using image features and signal processing technique with low tra
 1. Saline based antenna minimization technique for low frequency and broadband antenna (2021)
    Designed and Developed a novel antenna miniaturization technique with a decrease in S11 parameter by 40 percent, and did a mathematical and computational modelling of it. (PUBLISHED IN IEEE AND SCOPUS); ISBN:978-1-6654-3920-6;
 
+## Skills
+Programming Skills                           : Python, R, SQL, C, HFSS , NEC, HTML, CSS, Docker, Airflow, Flask, MongoDB
 
+Libraries and framework                  : OpenCV, Numpy, Matplotlib, Keras TensorFlow, PIL,PyTorch, Pyspark
