@@ -85,3 +85,8 @@ Face Detection using image features and signal processing technique with low tra
 Programming Skills                           : Python, R, SQL, C, HFSS , NEC, HTML, CSS, Docker, Airflow, Flask, MongoDB
 
 Libraries and framework                  : OpenCV, Numpy, Matplotlib, Keras TensorFlow, PIL,PyTorch, Pyspark
+
+## Acheivements
+1. Received Graduate Pathway Scholarship of $14000 from Illinois Institute of Technology and awarded with a $1000 Edge Award from Illinois Institute of Technology upon completing the Data Analyst Intern.
+2. Topper at National Qualifier Test conducted by TCS (Tata Consultancy Service - a world leader in IT services)
+
