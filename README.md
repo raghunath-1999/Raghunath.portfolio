@@ -69,10 +69,16 @@ Developed and executed statistical modelling for a real-world data set by introd
 Performed hypothesis testing and residual analysis for curvilinear fields, data distribution study, outlier behaviours etc. 
 
 
+### Music Genre Classification using Python
+Enhanced music genre classification by applying signal processing (frequency domain analysis) and machine learning. Improved prediction accuracy by 10% and reduced algorithm running time by 11%.
+
+### Face Detection Haar Cascade implementation
+Face Detection using image features and signal processing technique with low training images and faster execution(an accuracy of 80 percent)  -(2019)
 
 
 
 ## Publications
-1. 
+1. Saline based antenna minimization technique for low frequency and broadband antenna (2021)
+   Designed and Developed a novel antenna miniaturization technique with a decrease in S11 parameter by 40 percent, and did a mathematical and computational modelling of it. (PUBLISHED IN IEEE AND SCOPUS); ISBN:978-1-6654-3920-6;
 
 
