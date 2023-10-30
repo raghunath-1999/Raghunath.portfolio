@@ -27,7 +27,7 @@
 - Designed, developed and deployed production-level R&D models, with a focus on end-to-end AI pipelines.
 - Demonstrated expertise in evaluating model performance using relevant metrics to enhance efficiency and business alignment.(Played a key role in the development of CCC's prominent product, Smart Estimate.)
 - Transformed monolithic models to a highly optimized micro-service architecture using Docker,and Airflow, resulting in increased efficiency(60 percent prediction time) and 3X scalability.(as container image)
-- Achieved 26 percent performance boost instance segmentation of a model by utilizing computer vision techniques and integrating complementary models.
+- Literature Survey for for classification models using complementary models
 
 **PROGRAM ANALYST @ COGNIZANT TECHNOLOGY AND SOLUTIONS, INDIA (Jul 2021 - Aug 2022)**
 - Designed and executed a PEGA-based web application and Boosted productivity by 30% through custom data management and automation features. Optimized performance with calculated fields, delivering real-time results. 
