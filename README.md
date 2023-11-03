@@ -1,10 +1,10 @@
 ## Summary
 
-- Enthusiastic AI grad student with special interest in Computer vision, Applied Statistics
+- Enthusiastic AI grad student with special interest in Computer vision, Applied Statistics, NLP
 - Bringing in a couple of internships experience as a Data Science R & D engineer and as a Data Analyst with good exposure and understanding of the AI lifecycle
 - Curiosity in exploring and researching with experience in publishing a couple of research papers in international forums namely IEEE and Scopus
 - TA for master’s level Machine Learning course
-
+- Handsonns in state of the art transformers and optimized agent based algorithms
 
 ## Education
 				       		
@@ -45,6 +45,11 @@
 
 
 ## Projects
+
+### Swin Transformer
+
+Implementing a customized  hierarchical feature and shifted window based multiheal attention ViT  for high resolution images resulting.
+
 ### U-Net Generative Adversarial Networks(GANS) for quality image generation
 [Project docs](https://github.com/raghunath-1999/Unet-based-GAN)
 
@@ -75,6 +80,8 @@ Enhanced music genre classification by applying signal processing (frequency dom
 ### Face Detection Haar Cascade implementation
 Face Detection using image features and signal processing technique with low training images and faster execution(an accuracy of 80 percent)  -(2019)
 
+### Tic Tac Toe
+Exhibitted excellence in agent based algorithms by creating a automated Tic Tac Toe hard game by optimizing the performance(saving 90 percent computational time) - 2023
 
 
 ## Publications
