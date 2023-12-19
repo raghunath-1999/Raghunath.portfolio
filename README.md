@@ -48,7 +48,7 @@
 
 ### Swin Transformer
 
-Implementing a customized  hierarchical feature and shifted window based multiheal attention ViT  for high resolution images resulting.
+ Implemented a customized hierarchical feature and shifted window based multihead ViT for high resolution images with linear time complexity (achieving competing efficiency with 30 percent of parameters )          
 
 ### U-Net Generative Adversarial Networks(GANS) for quality image generation
 [Project docs](https://github.com/raghunath-1999/Unet-based-GAN)
@@ -80,7 +80,7 @@ Enhanced music genre classification by applying signal processing (frequency dom
 ### Face Detection Haar Cascade implementation
 Face Detection using image features and signal processing technique with low training images and faster execution(an accuracy of 80 percent)  -(2019)
 
-### Tic Tac Toe
+### Tic Tac Toe, Sudoku
 Exhibitted excellence in agent based algorithms by creating a automated Tic Tac Toe hard game by optimizing the performance(saving 90 percent computational time) - 2023
 
 
