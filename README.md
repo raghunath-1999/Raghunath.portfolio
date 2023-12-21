@@ -5,6 +5,7 @@
 - Curiosity in exploring and researching with experience in publishing a couple of research papers in international forums namely IEEE and Scopus
 - TA for master’s level Machine Learning course
 - Handsonns in state of the art transformers and optimized agent based algorithms
+- Research assistant under 2 professors
 
 ## Education
 				       		
