@@ -1,7 +1,7 @@
 [Github](https://github.com/raghunath-1999)
 [linkedin](https://www.linkedin.com/in/raghunathb1999/)
 
-![.](/assets/img/IMG_20230510_171720_811.jpg)
+
 
 
 ## Summary
