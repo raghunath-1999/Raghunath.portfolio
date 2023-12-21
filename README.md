@@ -1,3 +1,6 @@
+[Github](https://github.com/raghunath-1999)
+[linkedin](https://www.linkedin.com/in/raghunathb1999/)
+
 ## Summary
 
 - Enthusiastic AI grad student with special interest in Computer vision, Applied Statistics, NLP
