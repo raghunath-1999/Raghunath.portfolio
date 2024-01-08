@@ -1,6 +1,6 @@
 [Github](https://github.com/raghunath-1999)
 [linkedin](https://www.linkedin.com/in/raghunathb1999/)
-
+[CV](https://drive.google.com/file/d/1JFVt2uby8g9jse3nfkdNDBPnqJi4Y8GJ/view?usp=drive_link)
 
 
 
