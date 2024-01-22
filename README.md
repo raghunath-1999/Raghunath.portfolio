@@ -112,10 +112,11 @@ Exhibitted excellence in agent based algorithms by creating a automated Tic Tac 
    Designed and Developed a novel antenna miniaturization technique with a decrease in S11 parameter by 40 percent, and did a mathematical and computational modelling of it. (PUBLISHED IN IEEE AND SCOPUS); ISBN:978-1-6654-3920-6;
 
 ## Skills
-Programming Skills                           : Python, R, SQL, C, HFSS , NEC, HTML, CSS, Docker, Airflow, Flask, MongoDB
+Programming Skills                       : Python, R, SQL, C, C++, Docker, Airflow, Flask, MongoDB,Kubernetes, Linux, Hadoop, Java
 
-Libraries and framework                  : OpenCV, Numpy, Matplotlib, Keras TensorFlow, PIL,PyTorch, Pyspark
+Libraries and framework              : OpenCV, Numpy, Matplotlib, Keras TensorFlow, PIL,PyTorch, Pyspark, scikit-learn,NLTK,scipy
 
+Version Controls		              : Gitlab, Github, Notion, Bitbucket
 ## Acheivements
 1. Received Graduate Pathway Scholarship of $14000 from Illinois Institute of Technology and awarded with a $1000 Edge Award from Illinois Institute of Technology upon completing the Data Analyst Intern.
 2. Topper at National Qualifier Test conducted by TCS (Tata Consultancy Service - a world leader in IT services)
