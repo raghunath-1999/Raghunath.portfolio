@@ -11,7 +11,7 @@
 - Curiosity in exploring and researching with experience in publishing a couple of research papers in international forums namely IEEE and Scopus
 - TA for master’s level Machine Learning course
 - Handsonns in state of the art transformers and optimized agent based algorithms
-- Research assistant under 2 professors
+- Research assistant 
 
 ## Education
 				       		
@@ -25,6 +25,9 @@
 
 ## Work Experience
 
+**GRADUATE RESEARCH ASSISTANT @  ILLINOIS INSTITUE OF TECHNOLOGY,CHICAGO (Jan 2024 - Present 2023_)**
+- camera-based artificial intelligence systems for autonomous cars
+  
 **GRADUATE TEACHING ASSISTANT @  ILLINOIS INSTITUE OF TECHNOLOGY,CHICAGO (Aug 2023 - Present 2023_)**
 - Machine Learning course(Masters level) under professor Binghui Wang.
 - Enhanced instruction, collaborating with faculty; designed assignments; led interactive discussions; guided students; conducted detailed grading; communicated effectively for clarity and improvement.
